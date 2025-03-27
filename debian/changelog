@@ -1,3 +1,9 @@
+fonts-firacode (6.2-1deepin1) unstable; urgency=medium
+
+  * update install.
+
+ -- lichenggang <lichenggang@deepin.org>  Thu, 27 Mar 2025 16:57:46 +0800
+
 fonts-firacode (6.2-1) unstable; urgency=medium
 
   * Initial release in deepinOS.
