@@ -8,5 +8,5 @@ Homepage: https://github.com/tonsky/FiraCode
 
 
 Package: fonts-firacode
-Architecture: any
+Architecture: all
 Description: FiraCode is a free monospaced font with programming ligatures.
